@@ -8,7 +8,7 @@ Website du lịch 3D/VR 360° dành cho 11 điểm đến Bến Tre, triển kha
 - Trình xem VR toàn màn hình bằng URL tour gốc
 - Việt / Anh
 - PWA shell + Service Worker
-- Fallback Mở tour gốc nếu nền tảng bên thứ ba chặn iframe
+- Nút Google Maps mở sẵn truy vấn đúng tên từng điểm đến
 
 ## GitHub Pages
 Khuyến nghị: Deploy from a branch → main → / (root).
