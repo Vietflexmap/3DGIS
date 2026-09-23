@@ -1,0 +1,11 @@
+{
+  "name": "Vietflex 3D Tourism · Bến Tre",
+  "short_name": "Vietflex 3D",
+  "description": "11 trải nghiệm VR 360° tại Bến Tre",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061b18",
+  "theme_color": "#062c27"
+}
